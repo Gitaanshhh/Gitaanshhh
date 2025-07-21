@@ -16,7 +16,11 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-I'm a Computer Science & Engineering student at Manipal Institute of Technology (MIT Manipal) with a passion for understanding how things work. <br>I translate this curiosity into code as an autonomous software engineer at Formula Manipal.<br>Driven athlete (volleyball, roll ball, speed skating) accustomed to pushing boundaries and overcoming challenges. This same mindset fuels my dedication to mastering computer science.
+I'm a Computer Science and Engineering student at Manipal Institute of Technology (MIT Manipal), always eager to understand how things work—whether it's the logic behind a program or the mechanics of a machine. I'm the Autonomous Lead at Formula Manipal, a student team where we design and build an autonomous electric Formula Student-style race car from the ground up. I work on the software side of things, contributing to the perception, planning, and control systems that make the car drive itself.
+
+Over time, I’ve picked up a range of skills—programming in Python, C, and Java; working with tools like ROS2, Git, and Linux; and applying machine learning libraries like OpenCV, NumPy, and Pandas. I enjoy solving real-world problems, whether it’s building an algorithm that makes sense of sensor data or creating systems that interact smoothly with hardware. I’ve also explored full-stack web development with Django and SQL.
+
+Outside of tech, I’ve always been into sports—volleyball, roll ball, and speed skating—which has taught me resilience, teamwork, and how to keep going when things get tough. That mindset carries over into everything I do in CS: I like digging deep, figuring things out, and constantly improving. I’m excited about opportunities where I can learn more, work with great people, and build things that actually make an impact.
 
 
 ## 🌐 Socials:
